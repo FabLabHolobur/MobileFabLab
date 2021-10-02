@@ -1,4 +1,4 @@
-#MOBILE FAB LAB
+# MOBILE FAB LAB
 ## OBJETIVO
 Desarrollar una solución de FabLab móvil para el FabLab Holobur basado en un remolque autosuficiente con las mismas capacidades que un FabLab local
 ![](https://fabfoundation.fablabbcn.org/wp-content/uploads/2018/02/dbwUJL.png)
